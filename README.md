@@ -12,10 +12,10 @@ Jag använde GitHub för att spara och hantera ändringar i projektet. Jag gjord
 
 ## Vem gjorde vad?
 
-Projektet gjordes individuellt.
+Projektet gjordes av mig själv.
 
-* Skapade repositoryt
-* Skapade PowerShell-modulen
-* Gjorde API-anropet
-* Skapade run.ps1
-* Uppdaterade README
+- Skapade repositoryt
+- Skapade PowerShell-modulen
+- Gjorde API-anropet
+- Skapade run.ps1
+- Uppdaterade README
